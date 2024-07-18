@@ -1,3 +1,5 @@
+#improvised with care by
+#MacroCosM(Tathagata Sau)
 import math
 
 def reward_function(params):
